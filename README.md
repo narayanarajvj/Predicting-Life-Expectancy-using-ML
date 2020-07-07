@@ -47,7 +47,7 @@ You can download the dataset from kaggle website.
 
 ![](images/Capture1.PNG)
 
-> Here we have to build the flow. For form node, we have to install palette from manage palette option.
+> Here we have to build the flow. For form node, we have to install node-red-dashboard palette from manage palette option.
 
 ![](images/Capture4.PNG)
 
@@ -67,10 +67,10 @@ Thanks for giving a read...
 
 
 Some useful links:
-https://cloud.ibm.com/login
-https://www.ibm.com/cloud/get-started
-https://developer.ibm.com/technologies/machine-learning/series/learning-path-machine-learning-for-developers/
-https://www.ibm.com/watson/products-services
-https://bookdown.org/caoying4work/watsonstudio-workshop/jn.html
-https://www.kaggle.com/kumarajarshi/life-expectancy-who
-https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/
+> https://cloud.ibm.com/login
+> https://www.ibm.com/cloud/get-started
+> https://developer.ibm.com/technologies/machine-learning/series/learning-path-machine-learning-for-developers/
+> https://www.ibm.com/watson/products-services
+> https://bookdown.org/caoying4work/watsonstudio-workshop/jn.html
+> https://www.kaggle.com/kumarajarshi/life-expectancy-who
+> https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/

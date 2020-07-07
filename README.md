@@ -59,18 +59,18 @@ You can download the dataset from kaggle website.
 
 ![](images/Capture6.png)
 
-Take a look of my project by clicking the link,
+Take a look of my project by clicking the below link,  
 https://lifez.eu-gb.mybluemix.net/ui/#!/0?socketid=aU2Se0V9vVs-hfEkAAAG
 
 
 Thanks for giving a read...
 
 
-Some useful links:
-> https://cloud.ibm.com/login
-> https://www.ibm.com/cloud/get-started
-> https://developer.ibm.com/technologies/machine-learning/series/learning-path-machine-learning-for-developers/
-> https://www.ibm.com/watson/products-services
-> https://bookdown.org/caoying4work/watsonstudio-workshop/jn.html
-> https://www.kaggle.com/kumarajarshi/life-expectancy-who
-> https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/
+Some useful links:  
+https://cloud.ibm.com/login  
+https://www.ibm.com/cloud/get-started  
+https://developer.ibm.com/technologies/machine-learning/series/learning-path-machine-learning-for-developers/  
+https://www.ibm.com/watson/products-services  
+https://bookdown.org/caoying4work/watsonstudio-workshop/jn.html  
+https://www.kaggle.com/kumarajarshi/life-expectancy-who  
+https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/  

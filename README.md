@@ -1,7 +1,7 @@
 # Predicting Life Expectancy using Machine Learning
 Lifez Prediction
 
-# Project Summary:
+## Project Summary:
 This project aims to predict the lifespan of a human being, based on various factors such
 as Regional variations, Economic Circumstances, Mental Illnesses, Physical Illnesses, Eduaction,
 Year of their birth and other demographic factors which is in a dataset that was collected by
@@ -14,16 +14,16 @@ The dataset used for the prediction contains data from year 2000 to 2015. It con
 2500 entries and around 22 columns with various features like Population, Status, Alcohol, Infant
 Deaths etc., which aids the prediction of the model.
 
-# Project Requirements:
+## Project Requirements:
 1. The dataset must be in csv format.
 2. Machine Learning Algorithms must be applied with the help of Python.
 3. IBM cloud account.
 4. IBM Watson and Node-Red flow.
 
-# IBM Cloud Platform:
+## IBM Cloud Platform:
 The IBM cloud platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on IBM Cloud spins up fast and performs reliably in a tested and supported environment you can trust.
 
-# Deploying ML model in IBM Cloud:
+## Deploying ML model in IBM Cloud:
 Steps:
 > Go to the IBM Cloud Portal (If you don't have an account, please create it)
 
@@ -66,7 +66,7 @@ https://lifez.eu-gb.mybluemix.net/ui/#!/0?socketid=aU2Se0V9vVs-hfEkAAAG
 Thanks for giving a read...
 
 
-Some useful links:  
+## Some useful links:  
 https://cloud.ibm.com/login  
 https://www.ibm.com/cloud/get-started  
 https://developer.ibm.com/technologies/machine-learning/series/learning-path-machine-learning-for-developers/  

@@ -1,6 +1,8 @@
 # Predicting Life Expectancy using Machine Learning
 Lifez Prediction
 
+Demonstration Video link: https://www.youtube.com/watch?v=3JgMnnZkjaA
+
 ## Project Summary:
 This project aims to predict the lifespan of a human being, based on various factors such
 as Regional variations, Economic Circumstances, Mental Illnesses, Physical Illnesses, Eduaction,
